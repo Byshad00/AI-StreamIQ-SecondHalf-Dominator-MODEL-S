@@ -57,3 +57,21 @@ This project consists of two AI models designed to enhance the user experience i
 ## Conclusion
 
 These AI models enhance the sports streaming experience in virtual environments. StreamIQ improves stream quality, while SecondHalf Dominator AI provides insightful predictions based on first-half match data. Both models deliver high accuracy and offer interactive features for users in real-time sports events.
+# ملاحظات هامة حول الملفات والمودلين:
+
+### مشكلة في فتح ملف  (SecondHalf_Dominator_AI_model.ipynb)
+
+قد يواجه المستخدمون مشكلة في فتح ملف SecondHalf_Dominator_AI_model.ipynb مباشرة على GitHub بسبب بعض المشاكل المتعلقة بالمكتبة الخاصة بالديمو. لذا، لحل هذه المشكلة، يرجى اتباع الخطوات التالية:
+
+1. تنزيل الملف على جهازك:
+   - قم بتنزيل ملف من الخانه الجانبيه SecondHalf_Dominator_AI_model.ipynb على جهازك.
+
+2. فتح الملف باستخدام Google Colab:
+   - بعد تنزيل الملف، قم بفتح Google Colab [من هنا](https://colab.research.google.com/).
+   - قم بتحميل الملف الذي قمت بتنزيله باستخدام خيار "فتح ملف من جهازك".
+   - سيتمكن المستخدم من تشغيل الملف وتنفيذ الأكواد الخاصة بالنموذج.
+
+### ملاحظات إضافية:
+- نسخة Python (.py): تم أيضًا إضافة نسخة من النموذج بلغة Python ضمن الملفات المرفقة، يمكنك استخدامها بدلاً من الملف السابق 
+  
+- مجلد البيانات المضغوط: تم إضافة مجلد مضغوط يحتوي على الداتا سيت التي تم استخدامها في النموذجين. يمكنك فك الضغط واستخدام البيانات لتشغيل النماذج بشكل صحيح.
