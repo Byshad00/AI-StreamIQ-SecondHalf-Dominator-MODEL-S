@@ -67,7 +67,7 @@ These AI models enhance the sports streaming experience in virtual environments.
    - قم بتنزيل ملف من الخانه الجانبيه SecondHalf_Dominator_AI_model.ipynb على جهازك.
 
 2. فتح الملف باستخدام Google Colab:
-   - بعد تنزيل الملف، قم بفتح Google Colab [من هنا](https://colab.research.google.com/).
+   - بعد تنزيل الملف، قم بفتح Google Colab [من هنا](https://colab.research.google.com/drive/1HmDRcJzGBa5tOrswiIXtzxLMnRJ43v0h?usp=sharing).
    - قم بتحميل الملف الذي قمت بتنزيله باستخدام خيار "فتح ملف من جهازك".
    - سيتمكن المستخدم من تشغيل الملف وتنفيذ الأكواد الخاصة بالنموذج.
 او يمكن فتح المودل من خلال رابط المشاركه قوقل كولاب (https://colab.research.google.com/drive/1HmDRcJzGBa5tOrswiIXtzxLMnRJ43v0h?usp=sharing)
